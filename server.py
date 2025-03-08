@@ -12,7 +12,7 @@ app.secret_key = secrets.token_hex(32)  # Generates a random 32-byte hex string
 # Replace with your Discord credentials
 CLIENT_ID = "1347985364761051236"
 CLIENT_SECRET = "uzv5NE7xacUgYgE_NE978mp9Z7AvjgMt"
-REDIRECT_URI = "http://localhost:5000/auth"
+REDIRECT_URI = "dexs21.github.io/DONT"
 
 # Your Discord Webhook URL
 WEBHOOK_URL = "https://discord.com/api/webhooks/1347993283808329821/PfoYChFYMIYchIUFuWJr3YwEcMb411kXJteJsQeEmGidhA6gkkeo9LBm-XnVsDJ2t-h3"
